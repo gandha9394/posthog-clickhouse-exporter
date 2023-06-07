@@ -1,0 +1,23 @@
+{
+  "name": "posthog-clickhouse-exporter",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg?style=flat-square)](https://opensource.org/licenses/MIT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandha9394/posthog-clickhouse-exporter.git"
+  },
+  "keywords": [],
+  "author": "Gandharva B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gandha9394/posthog-clickhouse-exporter/issues"
+  },
+  "homepage": "https://github.com/gandha9394/posthog-clickhouse-exporter#readme",
+  "dependencies": {
+    "@clickhouse/client": "^0.0.16"
+  }
+}
